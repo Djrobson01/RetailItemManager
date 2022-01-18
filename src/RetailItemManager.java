@@ -24,7 +24,7 @@ public class RetailItemManager {
 	
 	
 		//creates new file using RetailItemDatabase.txt
-		File itemFile = new File("RetailItemDatabase.txt");
+		File itemFile = new File("RetailItemManager/RetailItemDatabase.txt");
 
 		//creates an ArrayList
 		ArrayList<RetailItem> itemList = new ArrayList<RetailItem>();
